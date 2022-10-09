@@ -2,7 +2,7 @@
 
 uname=$(uname -n)
 filename="./config.txt"
-repo="https://github.com/TronUb/Tron.git"
+repo="https://github.com/THETORNADOTEAM/Psycho-Creed.git"
 pytgcalls=$(pip3 show py-tgcalls)
 G='\033[0;32m'
 
