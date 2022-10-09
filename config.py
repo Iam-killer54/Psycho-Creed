@@ -7,7 +7,7 @@ import subprocess
         
 
 _PMPERMIT_TEXT = """
-Hey ! This is [Tron Userbot](https://t.me/tronuserbot) Security System.
+Hey ! This is [Psycho-Creedse-bot](https://t.me/Psycho_creed_chat) Security System.
 **You will be blocked if you spammed my owner's pm**
 Currently My Owner is busy ! So Wait Until He Arrives. 
 And Better Not To Spam His here !
@@ -57,8 +57,8 @@ class Configuration(object): # pylint: disable=too-few-public-methods
     USER_NAME = os.getenv("USER_NAME")
     # your custom bio (default: telegram bio)
     USER_BIO = os.getenv("USER_BIO")
-    # used for alive plugin (default: tronuserbot logo image)
-    USER_PIC = os.getenv("USER_PIC", "https://telegra.ph/file/48f5dc15d51ea7f721275.jpg")
+    # used for alive plugin (default: Psycho-Creed-bot logo image)
+    USER_PIC = os.getenv("USER_PIC", "https://telegra.ph/file/c0c915bbf3be929cb6fce.jpg")
     # add your telegram id if userbot fails to get your user id
     USER_ID = os.getenv("USER_ID")
     # add your username if userbot fails to get your username
@@ -105,14 +105,14 @@ class Configuration(object): # pylint: disable=too-few-public-methods
     VCBOT_ACCESS = os.getenv("VCBOT_ACCESS", None)
 
 # ---- other ----
-    # your telegraph account name (default: Tronuserbot)
-    TL_NAME = os.getenv("TL_NAME", "Tron UserBot")
+    # your telegraph account name (default: Psycho-Creed-bot)
+    TL_NAME = os.getenv("TL_NAME", "Psycho-Creedse-bot")
     # thumbnail used while uploading plugins, etc. (optional)
     THUMB_PIC = os.getenv("THUMB_PIC", "./main/core/resources/images/tron-square.png")
     # temporary download location (required)
     TEMP_DICT = os.getenv("TEMP_DICT", os.path.abspath(".") + "/downloads/")
     # official repo for updates
-    UPSTREAM_REPO = os.getenv("UPSTREAM_REPO", "https://github.com/TronUb/Tron.git")
+    UPSTREAM_REPO = os.getenv("UPSTREAM_REPO", "https://github.com/THETORNADOTEAM/Psycho-Creed.git")
     # this is used to get your accurate time
     TIME_ZONE = os.getenv("TIME_ZONE", "Asia/Kolkata")
     # these users can use your userbot
