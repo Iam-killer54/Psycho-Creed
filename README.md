@@ -31,91 +31,13 @@ to its features it can be extended more and more, it can do more beyond its limi
     <summary>
         <b>• Necessary vars</b>
     </summary>
-<br></br>
 
-<p><blockquote>API_ID</blockquote></p>
-get this value from https://my.telegram.org
-
-<p><blockquote>API_HASH</blockquote></p>
-get this value from https://my.telegram.org
-
-<p><blockquote>SESSION</blockquote></p>
-create session from session methods given below 
-
-<p><blockquote>TRIGGER</blockquote></p>
-by default its dot (.) 
-change it to any single symbol you like
-
-<p><blockquote>LOG_CHAT</blockquote></p>
-make a private group and get its chat id
-
-<p><blockquote>TIME_ZONE</blockquote></p>
-by default its Asia/Kolkata, change it 
-your time zone
-
-<p><blockquote>BOT_TOKEN</blockquote></p>
-create a bot at https://t.me/BotFather 
-and get its bot token
-
-</details>
 
 
 <details>
     <summary><b>• Deployment ( 2 methods )</b></summary>
 
-<br></br>
-
-<b>1. Deploy on Heroku</b>
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
----
-
-<br></br>
-
-<b>2. Deploy on Termux</b>
-
-1. Install ubuntu in termux ~ ```curl https://raw.githubusercontent.com/AndronixApp/AndronixOrigin/master/repo-fix.sh > repo.sh && chmod +x repo.sh && bash repo.sh && pkg update -y && pkg install wget curl proot tar -y && wget https://raw.githubusercontent.com/AndronixApp/AndronixOrigin/master/Installer/Ubuntu20/ubuntu20.sh -O ubuntu20.sh && chmod +x ubuntu20.sh && bash ubuntu20.sh```
-
-2. start ubuntu ~ ```start-ubuntu20.sh```
-
-3. Install git & nano ~ ```apt-get install git nano```
-
-4. clone repo ~ ```git clone https://github.com/TronUb/Tron.git```
-
-5. change directory ~ ```cd Tron```
-
-6. create & fill all configs details in config file ~ ```nano config.txt``` 
-
-7. ```bash start.sh``` or ```./start.sh```
-
-
-<b>Note:</b> you have to add key & values in config.txt file same 
-
----
-
-<br></br>
-</details>
-
-<details>
-<summary><b>• Session ( 2 methods )</b></summary>
-
-
----
-
-<br></br>
-
-<b>2. Termux method</b>
-
-* Run the given command in termux
-
-*  ```apt update && apt upgrade && pkg install python3 git && cd $HOME && git clone https://github.com/TronUb/Tron.git && cd Tron && python3 session.py```
-
----
-
-<br></br>
-</details>
-
+<br>
 <b>Warning ⚠️</b>: I will not be responsible for anything that happens with your account, channels, groups, friends, etc, if you get banned or limited it will be your fault, most of time nothing happens.
 
 <br></br>
