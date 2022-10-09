@@ -1,6 +1,6 @@
 {
-    "name": "Trôn",
-    "description": "Tron Is A Multifunctional Telegram Userbot with Custom Settings.",
+    "name": "Psycho Creed Userbot",
+    "description": "Psycho Is A Multifunctional Telegram Userbot with Custom Settings.",
     "logo": "https://telegra.ph/file/8d62a8fe005a8077188ec.jpg",
     "keywords": [
         "userbot",
@@ -10,7 +10,7 @@
         "pyrogram",
         "productivity"
     ],
-    "repository": "https://github.com/TronUb/Tron",
+    "repository": "https://github.com/THETORNADOTEAM/Psycho-Creed",
     "website": "https://t.me/tronuserbot",
     "success_url": "/welcome",
     "stack": "container",
