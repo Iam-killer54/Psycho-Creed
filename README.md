@@ -1,20 +1,10 @@
 <p align="center">
     <a href="https://github.com/THETORNADOTEAM/Psycho-Creed">
-        <img src="main/core/resources/images/tron-round.png" height="300" width="300" alt="TronUb">
+        <img src="main/core/resources/images/tron-round.png" height="300" width="300" alt="Psycho-Creed">
     </a>
 </p>
 
-<h2 align="center">Tron Userbot</h2> 
-
-[![Pylint](https://github.com/TronUb/Tron/actions/workflows/pylint.yml/badge.svg)](https://github.com/TronUb/Tron/actions/workflows/pylint.yml)
-![Repo Size](https://img.shields.io/github/repo-size/TronUb/Tron)
-![License](https://img.shields.io/github/license/TronUb/Tron)
-![Python Version](https://img.shields.io/badge/python-3.10.5-aqua)
-![Release](https://img.shields.io/github/v/release/TronUb/Tron)
-![Maintained](https://img.shields.io/badge/Maintained%20%3F-Yes-orange)
-![Files](https://img.shields.io/github/directory-file-count/TronUb/Tron?label=repo%20files)
-![Downloads](https://img.shields.io/github/downloads/TronUb/Tron/total)
-![Commit since](https://img.shields.io/github/commits-since/TronUb/Tron/0.0.1/master)
+<h2 align="center">Psycho Creed Userbot</h2> 
 
 
 <h2>click below to expand</h2>
@@ -115,10 +105,6 @@ and get its bot token
 <details>
 <summary><b>• Session ( 2 methods )</b></summary>
 
-<br></br>
-<b>1. Repl method</b>
-
-[![Repl.it](https://img.shields.io/badge/REPL%20RUN-Click%20Here-aqua.svg)](https://replit.com/@beastzx18/Tron-Userbot?v=1)
 
 ---
 
@@ -139,5 +125,5 @@ and get its bot token
 
 <br></br>
 
-• MADE WITH 🎉 BY [࿇•ẞᗴᗩSԵ•࿇](https://t.me/beastzx)
+• MADE WITH 🎉 BY [࿇Tandav X࿇](https://t.me/TANDAV_X)
 
