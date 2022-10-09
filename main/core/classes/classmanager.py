@@ -32,14 +32,14 @@ class ClassManager(Config, Helpers, Database, Methods):
     CMD_HELP = {}
 
     # owner details /
-    owner_name = "࿇•ẞᗴᗩSԵ•࿇"
+    owner_name = "࿇•Psycho Creed•࿇"
     owner_id = 1790546938
-    owner_username = "@BEASTZX"
+    owner_username = "@TANDAV_X"
 
     # other /
     message_ids = {}
     PIC = "https://telegra.ph/file/38eec8a079706b8c19eae.mp4"
-    Repo = "https://github.com/TronUb/Tron.git"
+    Repo = "https://github.com/THETORNADOTEAM/Psycho-Creed.git"
     StartTime = time.time()
     utube_object = object
     callback_user = None
