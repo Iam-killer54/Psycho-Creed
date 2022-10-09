@@ -90,12 +90,7 @@ and get its bot token
 7. ```bash start.sh``` or ```./start.sh```
 
 
-<b>Note:</b> you have to add key & values in config.txt file same as given below 👇
-
-```API_ID=1234567```
-```API_HASH=a2gb7h9jd99jdu9bdid9djd9jsh8s7h7eo9kblops```
-
-<p>🎉 Done, Have fun using tronuserbot.</p>
+<b>Note:</b> you have to add key & values in config.txt file same 
 
 ---
 
